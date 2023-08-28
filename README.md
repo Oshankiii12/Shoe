@@ -1,3 +1,3 @@
 # Shoe
 
-https://oshankiiii12.github.io/Shoe/
+https://oshankiii12.github.io/Shoe/
